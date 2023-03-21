@@ -23,6 +23,7 @@
     .info fieldset{
             text-align: left;
             color: white;
+            background-color: brown;
     }
 /* hr
 <marquee behavior="" direction="real">OLORUNDA LOCAL GOVERNMENT, OSOGBO OSUN STATE</marquee> */
@@ -51,4 +52,7 @@ background-color: brown; padding:20px;
 color:white;
 margin: 10px;
 
+}
+.fun{
+    background-color: brown;
 }
