@@ -1,0 +1,86 @@
+    *{
+    box-sizing: border-box;
+}
+    
+    .info
+        {
+    background-color: brown; padding: 20px;
+    /* max-width: 20px; */
+    text-align: right;   
+    margin: 10px;
+    border-radius: 8px;
+        }
+        input{
+            border-radius: 5px;
+        }
+
+    hr {
+        margin: auto;
+    }
+    
+    .info form
+    {
+        text-align: left;
+    }
+    
+
+
+
+
+    .info a
+    {
+    color: white;
+    }
+
+
+    .about
+        {
+        text-align:center;    
+            }
+
+    .about a
+    {
+        padding:20px;
+        color: brown;
+
+    }
+    a{
+    text-decoration: none;
+    }
+
+    .real{
+    text-align: center;
+    background-color: brown; padding:20px;
+    color:white;
+    margin: 10px;
+    border-radius: 8px;
+    }
+
+    .info fieldset
+             {
+            background-color: brown;
+            text-align: left;
+            color: white;
+            padding: 10px;
+            margin: auto;
+             }
+
+             .footer{
+                 background-color: brown;
+                 color: white;  
+                 border-radius: 8px;
+                 /* padding-top: 20px; */
+             }
+
+             ul{
+                list-style-type: none;
+                
+             }
+             li{
+                display: inline;
+                overflow: auto;
+             }
+
+             marquee{
+                 text-shadow: 1px 2px brown;
+             }
